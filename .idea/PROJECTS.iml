@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/snake_game/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/snake_game/build" />
+      <excludeFolder url="file://$MODULE_DIR$/snake_game/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zoom_clone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zoom_clone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zoom_clone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flappy_bird/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flappy_bird/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flappy_bird/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weather_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weather_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weather_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator_apk/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator_apk/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator_apk/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Music_player/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Music_player/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Music_player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp_clone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp_clone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp_clone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/soduko_solver_utkrisht-main/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/soduko_solver_utkrisht-main/build" />
+      <excludeFolder url="file://$MODULE_DIR$/soduko_solver_utkrisht-main/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
